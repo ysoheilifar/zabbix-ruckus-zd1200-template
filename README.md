@@ -1,5 +1,5 @@
 # Zabbix templates
-Zabbix templates for devices
+Zabbix templates for below devices:
 
 |Device Name  |Device Version      |
 |-------------|--------------------|
